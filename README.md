@@ -2,7 +2,7 @@
 
 **Module :** Développement d'applications réparties  
 **Niveau :** LSI3  
-**Étudiant(e) :** _Votre Nom et Prénom_  
+**Étudiant(e) :** _Safi Mohamed yassine_  
 **Année universitaire :** _2025-2026_
 
 ## Présentation
